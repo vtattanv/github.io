@@ -1,0 +1,9 @@
+.header-logo a {
+  font-size: 120px;
+  background-color: #0040FF;
+  color: #ff0000;
+  margin: 30px;
+  float: left;
+}
+
+.header-list
